@@ -1,0 +1,4 @@
+Bundle-Name: erpaccess
+Bundle-SymbolicName: com.liferay.partnerspecialization.erpaccess
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.partnerspecialization.erpaccess.constants
